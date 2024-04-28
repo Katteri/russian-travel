@@ -1,0 +1,7 @@
+.lead__image-road {
+    position: absolute;
+    top: 565px;
+    left: 50%;
+    transform: translate(-50%, 0);
+    z-index: 1;
+}
