@@ -13,3 +13,14 @@
 .lang__link:nth-of-type(2){
     margin-left: 20px;
 }
+
+
+@media screen and (max-width: 320px) {
+    .lang__link {
+        font-size: 20px;
+    }
+
+    .lang__link:nth-of-type(2){
+        margin-left: 18px;
+    }
+}

@@ -1,4 +1,6 @@
 .lang {
     display: flex;
+    align-items: flex-end;
     flex-wrap: nowrap;
+    margin-top: 12px;
 }
