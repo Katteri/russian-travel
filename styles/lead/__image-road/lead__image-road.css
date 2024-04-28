@@ -1,7 +1,68 @@
 .lead__image-road {
     position: absolute;
-    top: 565px;
+    min-width: 70vw;
+    top: 633px;
     left: 50%;
     transform: translate(-50%, 0);
     z-index: 1;
+}
+
+@media screen and (min-width: 2128px) {
+    .lead__image-road {
+        top: 568px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .lead__image-road {
+        width: 85vw;
+    }
+}
+
+@media screen and (max-width: 905px) {
+    .lead__image-road {
+        top: 608px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .lead__image-road {
+        width: 95vw;
+    }
+}
+
+@media screen and (max-width: 700px){
+    .lead__image-road {
+        top: 568px;
+    }
+}
+
+@media screen and (max-width: 583px){
+    .lead__image-road {
+        top: 588px;
+    }
+}
+
+@media screen and (max-width: 580px) {
+    .lead__image-road {
+        top: 498px;
+    }
+}
+
+@media screen and (max-width: 486px) {
+    .lead__image-road {
+        top: 518px;
+    }
+}
+
+@media screen and (max-width: 430px) {
+    .lead__image-road {
+        top: 438px;
+    }
+}
+
+@media screen and (max-width: 321px) {
+    .lead__image-road {
+        top: 348px;
+    }
 }

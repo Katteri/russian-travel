@@ -1,0 +1,15 @@
+.lead__image-photo {
+    min-width: 77vw;
+}
+
+@media screen and (max-width: 1024px) {
+    .lead__image-photo {
+        width: 90vw;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .lead__image-photo {
+        width: 100vw;
+    }
+}
