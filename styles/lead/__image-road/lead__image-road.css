@@ -1,6 +1,6 @@
 .lead__image-road {
     position: absolute;
-    min-width: 70vw;
+    width: 70vw;
     top: 633px;
     left: 50%;
     transform: translate(-50%, 0);
