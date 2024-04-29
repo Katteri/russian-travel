@@ -9,11 +9,11 @@
 @import url(../lead/__title/lead__title.css);
 @import url(../lead/__subtitle/lead__subtitle.css);
 @import url(../lead/__image/lead__image.css);
-@import url(../lead/__image-road/lead__image-road.css);
-@import url(../lead/__image-photo/lead__image-photo.css);
 @import url(../lead/__caption/lead__caption.css);
 @import url(../intro/intro.css);
 @import url(../intro/__title/intro__title.css);
 @import url(../intro/__text/intro__text.css);
 @import url(../intro/__list/intro__list.css);
 @import url(../intro/__list/intro__list_thin.css);
+@import url(../photo-grid/photo-grid.css);
+@import url(../photo-grid/__item/photo-grid__item.css);

@@ -1,3 +1,16 @@
 .lead__image {
+    width: 77vw;
     margin: 0;
+}
+
+@media screen and (max-width: 1024px) {
+    .lead__image {
+        width: 90vw;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .lead__image {
+        width: 100vw;
+    }
 }
