@@ -17,3 +17,12 @@
 @import url(../intro/__list/intro__list_thin.css);
 @import url(../photo-grid/photo-grid.css);
 @import url(../photo-grid/__item/photo-grid__item.css);
+@import url(../places/places.css);
+@import url(../place/place.css);
+@import url(../place/__title/place__title.css);
+@import url(../place/__image/place__image.css);
+@import url(../website/website.css);
+@import url(../website/__url-heading/website__url-heading.css);
+@import url(../website/__link/website__link.css);
+@import url(../place/__paragraph/place__paragraph.css);
+@import url(../paragraph/paragraph.css);

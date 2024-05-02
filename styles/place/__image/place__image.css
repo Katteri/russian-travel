@@ -1,0 +1,5 @@
+.place__image {
+    width: 37.1vw;
+    grid-column: 1;
+    grid-area: photo;
+}
