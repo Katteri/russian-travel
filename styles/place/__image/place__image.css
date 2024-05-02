@@ -1,5 +1,23 @@
 .place__image {
-    width: 37.1vw;
-    grid-column: 1;
+    width: 40vw;
     grid-area: photo;
+}
+
+@media screen and (max-width: 1024px) {
+    .place__image{
+        width: 43vw;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .place__image{
+        width: 44.4vw;
+    } 
+}
+
+@media screen and (max-width: 498px) {
+    .place__image {
+        width: 100vw;
+        transform: translateX(-3vw);
+    }
 }
