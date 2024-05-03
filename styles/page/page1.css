@@ -26,3 +26,9 @@
 @import url(../website/__link/website__link.css);
 @import url(../place/__paragraph/place__paragraph.css);
 @import url(../paragraph/paragraph.css);
+@import url(../cover/cover.css);
+@import url(../cover/__link/cover__link.css);
+@import url(../title/title.css);
+@import url(../cover/__title/cover__title.css);
+@import url(../cover/__subtitle/cover__subtitle.css);
+@import url(../cover/__background/cover__background.css);

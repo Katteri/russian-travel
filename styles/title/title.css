@@ -1,0 +1,11 @@
+.title {
+    margin: auto;
+    grid-column-start: 1;
+    grid-row-start: 1;
+    z-index: 1;
+}
+
+.title:hover ~.cover__background {
+    opacity: 0.2;
+    transition: opacity .5s;
+}

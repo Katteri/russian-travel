@@ -18,3 +18,8 @@
     text-align: left;
     text-underline-position: under;
 }
+
+.website__link:hover {
+    opacity: 0.8;
+    transition: opacity .5s;
+}
