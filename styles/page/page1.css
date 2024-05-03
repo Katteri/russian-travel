@@ -32,3 +32,7 @@
 @import url(../cover/__title/cover__title.css);
 @import url(../cover/__subtitle/cover__subtitle.css);
 @import url(../cover/__background/cover__background.css);
+@import url(../footer/footer.css);
+@import url(../link/link.css);
+@import url(../footer/__link/footer__link.css);
+@import url(../footer/__copyright/footer__copyright.css);

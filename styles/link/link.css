@@ -1,0 +1,10 @@
+.link {
+    display: flex;
+    flex-direction: row;
+}
+
+@media screen and (max-width: 600px) {
+    .link {
+        flex-direction: column;
+    }
+}
